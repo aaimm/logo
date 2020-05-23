@@ -5,4 +5,6 @@ Anguin(angry penguin) is a mascot of thie project.
 The profile picture and logo by twemoji, used under CC BY 4.0 / Composite from two origins.
 
 ## License
+Copyright 2020 AAIMM. All rights reserved.
+
 Graphics licensed under CC BY-NC-SA 4.0: https://creativecommons.org/licenses/by-nc-sa/4.0/
